@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Este es un _**texto**_ de prueba para practicar con las técnicas de ***enfasis*** del **lenguaje markdown**
